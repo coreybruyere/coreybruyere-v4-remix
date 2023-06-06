@@ -1,3 +1,8 @@
+# TODO:
+- Connect repo to Contentful
+- Move away from CSS-in-JS test implementation in favor of static CSS
+
+
 # Welcome to Remix!
 
 - [Remix Docs](https://remix.run/docs)
